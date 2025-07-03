@@ -1,0 +1,3 @@
+D:/session10/PTIT-CNTT01-session10-bai05/cmake-build-debug/CMakeFiles/PTIT_CNTT01_session10_bai05.dir
+D:/session10/PTIT-CNTT01-session10-bai05/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/session10/PTIT-CNTT01-session10-bai05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
